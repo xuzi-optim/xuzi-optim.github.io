@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zi Xu / Site Title"
+title                    : "Zi Xu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zi Xu"
 description              : &description "Zi Xu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
