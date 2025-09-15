@@ -1,0 +1,14 @@
+---
+title: "Zeroth-Order Stochastic Mirror Descent Algorithms for Minimax Excess Risk Optimization"
+collection: publications
+category: submitted
+permalink: /publication/2024-JMLR-1
+excerpt: ''
+date: 2024-01-01
+venue: 'Journal of Machine Learning Research'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Z. Gu, Z. Xu*. &quot;Zeroth-Order Stochastic Mirror Descent Algorithms for Minimax Excess Risk Optimization.&quot; <i>Journal of Machine Learning Research</i>. submitted. (2024).'
+---
+This paper is about {{ page.title }}.
