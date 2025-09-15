@@ -234,7 +234,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
