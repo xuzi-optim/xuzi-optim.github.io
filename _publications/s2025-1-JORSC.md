@@ -2,7 +2,7 @@
 title: "Minimax Levenberg-Marquardt Algorithms for Convex-Strongly Concave Minimax Problems"
 collection: publications
 category: submitted
-permalink: /publication/s2025-JORSC-1
+permalink: /publication/s2025-1-JORSC
 excerpt: ''
 date: 2025-01-01
 venue: 'Journal of the Operations Research Society of China'
