@@ -4,7 +4,7 @@ collection: publications
 category: submitted
 permalink: /publication/s2025-JORSC-1
 excerpt: ''
-date: 2025-01-02
+date: 2025-01-01
 venue: 'Journal of the Operations Research Society of China'
 paperurl: 'https://www.arxiv.org/pdf/2411.15769'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
