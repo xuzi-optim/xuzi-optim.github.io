@@ -1,7 +1,7 @@
 ---
 title: "On the Equivalence of Semidifinite Relaxations for MIMO Detection with General Constellations"
-collection: conferences
-category: manuscripts
+collection: publications
+category: conferences
 permalink: /publication/2019-1-ICASSP
 excerpt: ''
 date: 2019-01-01
