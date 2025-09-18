@@ -32,24 +32,23 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
+{% include biography.md %}
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+# Presentations
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+# Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+# Service and leadership
 * Currently signed in to 43 different slack teams
