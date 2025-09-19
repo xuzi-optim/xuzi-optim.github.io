@@ -45,3 +45,11 @@ author_profile: true
   * Presented by: HuNan Province Educational Office
 * "Excellent student of HuNan Province", 2002.09-2003.06
   * Presented by: HuNan Province Educational Office
+
+## Grants
+* General Program: "Theory and Algorithms for Minimax Optimization Problems with Coupled Constraints and Their Applications", National Natural Science Foundation of China, No. 12471294, 2025.01-2028.12
+* General Program: "Theory and Algorithms for Nonconvex Minimax Optimization Problems and Their Applications", National Natural Science Foundation of China, No. 12071279, 2021.01-2024.12 
+* General Program: "Optimization Algorithms for Nonconvex-Nonconcave Minimax Problems and Their Complexity Analysis", Shanghai Natural Science Foundation, No. 20ZR1420600, 2020.07-2023.06
+* General Program: The theory and algorithms for mixed binary QCQP problem and its application, National Natural Science Foundation of China, No. 11571221, 2016.01-2019.12
+* Youth Foundation: The optimization algorithm for resource allocation problem in wireless communication and complexity analysis, National Natural Science Foundation of China, No. 11101261, 2012.01-2014.12
+
