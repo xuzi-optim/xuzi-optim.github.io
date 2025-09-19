@@ -14,12 +14,12 @@ author_profile: true
 
 
 ## Professional Activities
-* Member of a council, The Mathematical Programming Branch of Operation Research Society of China, 2019.04-now
-* Associate Department Chair, Department of Mathematics, Shanghai University, 2018.11-now
-* Membership, CSIAM, 2017-now
-* Membership, Chinese Mathematical Society, 2017-now
-* Secretariat, The Mathematical Programming Branch of Operation Research Society of China, 2014-2019
-* Membership, The Operation Research Society of China, 2010-now
+* Member of a council: The Mathematical Programming Branch of Operation Research Society of China, 2019.04-now
+* Associate Department Chair: Department of Mathematics, Shanghai University, 2018.11-now
+* Membership: CSIAM, 2017-now
+* Membership: Chinese Mathematical Society, 2017-now
+* Secretariat: The Mathematical Programming Branch of Operation Research Society of China, 2014-2019
+* Membership: The Operation Research Society of China, 2010-now
 
 ## Referee for Journals
 * Mathematical Programming
