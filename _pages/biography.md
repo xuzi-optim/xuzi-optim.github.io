@@ -30,4 +30,18 @@ author_profile: true
 * Visiting Scholar, LSEC, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China
   * Cooperation Professors: Yu-hong Dai and Yafeng Liu, 2024.07, 2023.07, 2021.07, etc.
 
- 
+## Awards
+* 2024.12: Shanghai Oriental Talent "Top Project"
+  * Presented by: Shanghai Municipal Talent Office, Shanghai Municipal Education Commission
+* 2020.10: "Youth Science and Technology Award" of the Operations Research Society of China
+  * Presented by: The Operations Research Society of China
+* 2015.06: "The First Prize of Excellent Paper Award" in the Young scholar and Doctoral Academic Forum on Operations Research in 2015
+  * Presented by: The Operations Research Society of Shanghai
+* 2013.06: "The Second Prize of Excellent Paper Award" in the Young scholar and Doctoral Academic Forum on Operations Research in 2013
+  * Presented by: The Operations Research Society of Shanghai
+* 2005-2006: "The excellent student in Chinese Academy of Science"
+  * Presented by: The Chinese Academy of Sciences
+* 2003: "Excellent graduate student of HuNan Province"
+  * Presented by: HuNan Province Educational Office
+* 2002.09-2003.06: "Excellent student of HuNan Province"
+  * Presented by: HuNan Province Educational Office
