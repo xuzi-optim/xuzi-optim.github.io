@@ -17,7 +17,7 @@ redirect_from:
   
 ## Presentations
   <ul>{% for post in site.presentations reversed %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-talk.html %}
   {% endfor %}</ul>
   
 ## Teaching
