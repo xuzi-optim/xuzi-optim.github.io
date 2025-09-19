@@ -10,5 +10,3 @@ author_profile: true
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
     * TEST
-      * test
-        * test
