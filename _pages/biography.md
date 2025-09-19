@@ -8,7 +8,7 @@ author_profile: true
 ## Education
 * Ph.D in Computational Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, 2003.09-2008.07
   * Ph.D. Thesis: On Stochastic Approximation Algorithms
-  * Supervisor: Prof. [Yuhong Dai](https://lsec.cc.ac.cn/~dyh/)
+  * Supervisor: Prof. [Yu-Hong Dai](https://lsec.cc.ac.cn/~dyh/)
 * B.S. in Mathematics, Department of Mathematics, College of Science, HuNan Normal University, Hunan, China, 1999.09-2003.07
 
 ## Work experience
@@ -28,7 +28,7 @@ author_profile: true
 * Visiting Scholar, Department of Electrical and Computer Engineering, University of Minnesota, Twin Cites, Minneapolis, Minnesota, USA
   * Cooperation Professor: Zhi-Quan Luo, 2011.08–2012.08
 * Visiting Scholar, LSEC, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China
-  * Cooperation Professors: Yu-hong Dai and Yafeng Liu, 2024.07, 2023.07, 2021.07, etc.
+  * Cooperation Professors: Yu-Hong Dai and Yafeng Liu, 2024.07, 2023.07, 2021.07, etc.
 
 ## Awards
 * Shanghai Oriental Talent "Top Project", 2024.12
