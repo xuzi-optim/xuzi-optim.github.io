@@ -18,10 +18,10 @@ Today ...
 
 ## Contact
 
-F315, Deparment of Mathematics
+##### F315, Deparment of Mathematics
 
-Shanghai University
+##### Shanghai University
 
-No.99, Shanda Road
+##### No. 99, Shanda Road
 
-Shanghai, China, 200444.
+##### Shanghai, China, 200444.
