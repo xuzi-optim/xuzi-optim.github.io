@@ -220,21 +220,21 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  biography:
-    output: true
-    permalink: /:collection/:path/
+  # biography:
+  #  output: true
+  #  permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   presentations:
     output: true
     permalink: /:collection/:path/
-  activities:
-    output: true
-    permalink: /:collection/:path/
-  students:
-    output: true
-    permalink: /:collection/:path/
+  # activities:
+  #  output: true
+  #  permalink: /:collection/:path/
+  # students:
+  #  output: true
+  #  permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -250,14 +250,14 @@ defaults:
       layout: single
       author_profile: true
   # _biography
-  - scope:
-      path: ""
-      type: biography
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: biography
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _publications
   - scope:
       path: ""
@@ -276,24 +276,24 @@ defaults:
       author_profile: true
       share: true
       comments: true
-# _activities
-  - scope:
-      path: ""
-      type: activities
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # _activities
+  #  - scope:
+  #      path: ""
+  #      type: activities
+  #    values:
+  #      layout: single
+  #      author_profile: true
+  #      share: true
+  #      comments: true
   # _students
-  - scope:
-      path: ""
-      type: students
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #    path: ""
+  #    type: students
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _teaching
   - scope:
       path: ""
