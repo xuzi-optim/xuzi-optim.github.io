@@ -36,9 +36,9 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         {% if page.venue and page.type %}
-          <p class="page__content" itemprop="text"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Address:{{page.type}}: {{ page.venue }},  {{page.location}} </p>
+          <p class="page__content" itemprop="text"><strong><i class="fas fa-map" aria-hidden="true"></i>Address:</strong> {{page.type}}: {{ page.venue }},  {{page.location}} </p>
         {% elsif page.venue %}
-          <p class="page__content" itemprop="text"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Address:{{ page.venue }},  {{page.location}} </p>
+          <p class="page__content" itemprop="text"><strong><i class="fas fa-map" aria-hidden="true"></i>Address:</strong> {{ page.venue }},  {{page.location}} </p>
         {% endif %}
 
         </header>
