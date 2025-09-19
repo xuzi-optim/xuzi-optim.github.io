@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 {% include biography-contents.md %}
+{% include activities-contents.md %}
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
