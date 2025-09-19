@@ -240,15 +240,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _biography
-  #- scope:
-  #    path: ""
-  #    type: biography
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true
   # _publications
   - scope:
       path: ""
