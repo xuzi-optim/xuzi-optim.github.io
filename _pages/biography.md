@@ -5,27 +5,29 @@ permalink: /biography/
 author_profile: true
 ---
 
-Education
-======
+# Education
 * Ph.D in Computational Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, 2003.9-2008.7
   * Ph.D. Thesis On Stochastic Approximation Algorithms
   * Supervisor: Prof. [Yuhong Dai](https://lsec.cc.ac.cn/~dyh/)
 * B.S. in Mathematics, Department of Mathematics, College of Science, HuNan Normal University, Hunan, China, 1999.9-2003.7
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Work experience
+* Doctoral supervisor, Department of Mathematics, Shanghai University, Shanghai, China, 2019.04-Now
+* Professor, Department of Mathematics, Shanghai University, Shanghai, China, 2018.03-Now
+* Associate Professor, Department of Mathematics, Shanghai University, Shanghai, China, 2012.03-2018.03
+* Assistant Professor, Department of Mathematics, Shanghai University, Shanghai, China, 2008.07-2012.03 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Academic Visits
+* Visiting Scholar, Department of Applied Mathematics, The Hong Kong Polytechnic University (PolyU), HongKong
+  * Cooperation Professor: Xiaojun Chen, 2024.06.28-7.11
+  * Cooperation Professor: Xiaojun Chen,  2024.02.02-02.08
+* Visiting Scholar, Beijing International Center for Mathematical Research, Beijing
+  * Cooperation Professor: Zaiwen Wen, 2015.07–2015.08
+* Visiting Scholar, Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, Hongkong
+  * Cooperation Professor: Shiqian Ma, 2013.08 
+* Visiting Scholar, Department of Electrical and Computer Engineering, University of Minnesota, Twin Cites, Minneapolis, Minnesota, USA
+  * Cooperation Professor: Zhi-Quan Luo, 2011.08–2012.08
+* Visiting Scholar, LSEC, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China
+  * Cooperation Professors: Yu-hong Dai and Yafeng Liu, 2024.07, 2023.07, 2021.07, etc.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
  
