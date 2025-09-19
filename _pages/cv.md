@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+{% include biography.md %}
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
