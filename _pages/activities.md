@@ -5,12 +5,15 @@ permalink: /activities/
 author_profile: true
 ---
 
+## Editorialships
+* Editor: Journal of the Operations Research Society of China, Springer, 2025.01-2028.12
+* Editor: PLOS ONE, Public Library of Science, 2024.04-now
+* Guest Editor: Journal of Global Optimization, Springer, 2021.01-now
+* Editor: Numerical Algebra, Control & Optimization, AIMS, 2020.12-now
+* Reviewer: Mathematical Reviews, The American Mathematical Society, 2021.10-now
+
+
 ## Professional Activities
-* Editor, Journal of the Operations Research Society of China, Springer, 2025.01-2028.12
-* Editor, PLOS ONE, Public Library of Science, 2024.04-now
-* Reviewer, Mathematical Reviews, The American Mathematical Society, 2021.10-now
-* Guest Editor, Journal of Global Optimization, Springer, 2021.01-now
-* Editor, Numerical Algebra, Control & Optimization, AIMS, 2020.12-now
 * Member of a council, The Mathematical Programming Branch of Operation Research Society of China, 2019.04-now
 * Associate Department Chair, Department of Mathematics, Shanghai University, 2018.11-now
 * Membership, CSIAM, 2017-now
