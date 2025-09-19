@@ -7,9 +7,10 @@ author_profile: true
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, 2003.9-2008.7
+  * Ph.D. Thesis On Stochastic Approximation Algorithms
+  * Supervisor: Prof. [Yuhong Dai](https://lsec.cc.ac.cn/~dyh/)
+* B.S. in Mathematics, Department of Mathematics, College of Science, HuNan Normal University, Hunan, China, 1999.9-2003.7
 
 Work experience
 ======
