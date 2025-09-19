@@ -7,7 +7,7 @@ author_profile: true
 
 # Education
 * Ph.D in Computational Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, 2003.9-2008.7
-  * Ph.D. Thesis On Stochastic Approximation Algorithms
+  * Ph.D. Thesis: On Stochastic Approximation Algorithms
   * Supervisor: Prof. [Yuhong Dai](https://lsec.cc.ac.cn/~dyh/)
 * B.S. in Mathematics, Department of Mathematics, College of Science, HuNan Normal University, Hunan, China, 1999.9-2003.7
 
@@ -24,7 +24,7 @@ author_profile: true
 * Visiting Scholar, Beijing International Center for Mathematical Research, Beijing
   * Cooperation Professor: Zaiwen Wen, 2015.07–2015.08
 * Visiting Scholar, Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, Hongkong
-  * Cooperation Professor: Shiqian Ma, 2013.08 
+  * Cooperation Professor: Shiqian Ma, 2013.08
 * Visiting Scholar, Department of Electrical and Computer Engineering, University of Minnesota, Twin Cites, Minneapolis, Minnesota, USA
   * Cooperation Professor: Zhi-Quan Luo, 2011.08–2012.08
 * Visiting Scholar, LSEC, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China
