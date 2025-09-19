@@ -12,5 +12,5 @@ author_profile: true
   * Thesis: 
 
 
-## Master Students
+## M.S. Students
 * 
