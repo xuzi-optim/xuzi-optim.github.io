@@ -5,19 +5,19 @@ permalink: /biography/
 author_profile: true
 ---
 
-# Education
+## Education
 * Ph.D in Computational Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, 2003.9-2008.7
   * Ph.D. Thesis: On Stochastic Approximation Algorithms
   * Supervisor: Prof. [Yuhong Dai](https://lsec.cc.ac.cn/~dyh/)
 * B.S. in Mathematics, Department of Mathematics, College of Science, HuNan Normal University, Hunan, China, 1999.9-2003.7
 
-# Work experience
+## Work experience
 * Doctoral supervisor, Department of Mathematics, Shanghai University, Shanghai, China, 2019.04-Now
 * Professor, Department of Mathematics, Shanghai University, Shanghai, China, 2018.03-Now
 * Associate Professor, Department of Mathematics, Shanghai University, Shanghai, China, 2012.03-2018.03
 * Assistant Professor, Department of Mathematics, Shanghai University, Shanghai, China, 2008.07-2012.03 
 
-# Academic Visits
+## Academic Visits
 * Visiting Scholar, Department of Applied Mathematics, The Hong Kong Polytechnic University (PolyU), HongKong
   * Cooperation Professor: Xiaojun Chen, 2024.06.28-7.11
   * Cooperation Professor: Xiaojun Chen,  2024.02.02-02.08
