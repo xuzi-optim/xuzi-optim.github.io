@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+{% include biography-contents.md %}
+
 ## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
