@@ -8,6 +8,7 @@
     {% if include.item.year %}{{ include.item.year }}{% if include.item.doi %}. {% else %}.{% endif %}{% endif %}
     {% if include.item.doi %}https://doi.org/{{ include.item.doi }}{% endif %}
   {% endcapture %}
+
   {% if include.context == "post" %}
     <p class="archive__item-excerpt" itemprop="description">{{ citation | strip }}</p>
   {% elsif include.context == "page" %}
