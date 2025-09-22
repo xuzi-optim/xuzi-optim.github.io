@@ -18,10 +18,12 @@ Today ...
 
 ## Contact
 
-##### F315, Deparment of Mathematics
+##### Deparment of Mathematics
 
 ##### Shanghai University
 
 ##### No. 99, Shanda Road
 
-##### Shanghai, China, 200444.
+##### Shanghai, China, 200444
+
+##### Email: xuzi at shu dot edu dot cn
