@@ -26,9 +26,9 @@
     {% endif %}
   {% endcapture %}
   
-  {% if include.context == "page" %}
-    <p style="font-size: smaller">{{ citation | strip }}</p>
-  {% elsif include.context == "post" %}
+  {% if include.context == "post" %}
     <p class="archive__item-excerpt" itemprop="description">{{ citation | strip }}</p>
+  {% elsif include.context == "page" %}
+    <p style="font-size: smaller">{{ citation | strip }}</p>
   {% endif %}
 {% endif %}
