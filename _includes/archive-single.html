@@ -25,7 +25,7 @@
           alt="">
       </div>
     {% endif %}
-    
+
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -37,7 +37,24 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-  
-    {% if post.citation %}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p>{% endif %}
+
+    {% if post.excerpt and post.excerpt !=empty and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% elsif post.excerpt and post.excerpt !=empty and site.read_more == 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% endif %}
+
+    <p class="archive__item-excerpt" itemprop="description">{{ post.authors }}. "{{ post.title }}". <i>{{ post.venue }}</i>,</p>
+    {% comment %}
+    {% if post.authors and post.venue %}
+      <p class="archive__item-excerpt" itemprop="description">
+      {{ post.authors }}. "{{ post.title }}". <i>{{ post.venue }}</i>,
+      {% if post.volume %}{{ post.volume }}{% endif %}{% if post.issue %}({{ post.issue }}),{% else %},{% endif %}
+      {% if post.pages %}{{ post.pages }},{% endif %}
+      {% if post.year %}{{ post.year }}.{% endif %}
+      {% if post.doi %}https://doi.org/{{ post.doi }}{% endif %}</p>
+    {% endif %}
+    {% endcomment %}
+
   </article>
 </div>

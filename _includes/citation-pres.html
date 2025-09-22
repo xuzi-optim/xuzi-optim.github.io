@@ -1,0 +1,21 @@
+{% if include.context == "post" %}
+  {% if include.item.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ include.item.date | date: '%B %d, %Y' }}</p>{% endif %}
+{% elsif include.context == "page" %}
+  {% if include.item.date %}<p style="font-size: smaller"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Date: </strong><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>{% endif %}
+{% endif %}
+
+{% if include.item.venue %}
+  {% capture citation %}
+    {% if include.item.type %}
+      {{include.item.type}}: {{ include.item.venue }},  {{include.item.location}}
+    {% else %}
+      {{ include.item.venue }},  {{include.item.location}}
+    {% endif %}
+  {% endcapture %}
+
+  {% if include.context == "post" %}
+    <p class="archive__item-excerpt" itemprop="description">{{ citation | strip }}</p>
+  {% elsif include.context == "page" %}
+    <p style="font-size: smaller"><strong><i class="fas fa-map" aria-hidden="true"></i> Address: </strong>{{ citation | strip }}</p>
+  {% endif %}
+{% endif %}
