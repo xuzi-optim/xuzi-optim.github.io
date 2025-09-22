@@ -1,7 +1,7 @@
-{% if include.item.doi %}
-  {% assign paper_url = "https://doi.org/" | append: include.item.doi %}
-{% elsif include.item.paperurl %}
+{% if include.item.paperurl %}
   {% assign paper_url = include.item.paperurl %}
+{% elsif include.item.doi %}
+  {% assign paper_url = "https://doi.org/" | append: include.item.doi %}
 {% else %}
   {% assign paper_url = nil %}
 {% endif %}
