@@ -3,8 +3,8 @@ title: "Minimax Levenberg-Marquardt Algorithms for Convex-Strongly Concave Minim
 collection: publications
 category: submitted
 permalink: /publication/s2025-1-JORSC
-authors: J. Wang, M. Zhang, Z. Xu*
 date: 2025-01-01
+authors: J. Wang, M. Zhang, Z. Xu*
 venue: 'Journal of the Operations Research Society of China'
 volume: submitted
 issue:
